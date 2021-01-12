@@ -1,0 +1,17 @@
+{
+"companyName": "shizhencui.com",
+"productName": "炮台",
+"productVersion": "0.9",
+"dataUrl": "red web.data.unityweb",
+"wasmCodeUrl": "red web.wasm.code.unityweb",
+"wasmFrameworkUrl": "red web.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "red web.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.14f1"
+}
